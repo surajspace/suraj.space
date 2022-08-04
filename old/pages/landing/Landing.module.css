@@ -1,0 +1,10 @@
+.header {
+	height: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #FFF2D4;
+	box-shadow: 1px 1px 5px #e5d7b6;
+	font-family: "Righteous";
+	font-size: 25px;
+}
